@@ -113,17 +113,6 @@
         🌸
 
       (Tzuyu)
-
-      👀
-
-██████████████████████
-
-QA
-
-API
-
-Cypress
-
-Git
-
-██████████████████████
+<p align="center">
+<img src="./assets/tzuyu_pixel.png" width="180">
+</p>
