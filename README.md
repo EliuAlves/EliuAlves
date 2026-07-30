@@ -33,3 +33,10 @@ Contato
 
 
 <img src="https://streak-stats.demolab.com?user=EliuAlves&theme=tokyonight&hide_border=true"/>
+
+
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/EliuAlves/EliuAlves/output/github-snake-dark.svg" alt="Snake Animation" />
+</p>
