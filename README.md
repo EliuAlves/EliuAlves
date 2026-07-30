@@ -1,43 +1,60 @@
 <div align="center">
 
-# 👋 Olá! Eu sou Eliú Alves
+# 🍭 Eliú Alves 🍭
 
-### 🧪 QA Analyst • Test Automation • API Testing
+### 💖 QA Analyst • Test Automation • API Testing 💖
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=F472B6&center=true&vCenter=true&width=700&lines=Quality+Assurance;API+Testing;Cypress;Always+Learning..." />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1200&color=FF69B4&center=true&vCenter=true&width=700&lines=Welcome+ONCE!;QA+Automation;API+Testing;Cypress;Dreaming+Big..." />
 
 <br>
 
-<img src="https://media.tenor.com/JhYuDOezvMMAAAAC/twice-nayeon.gif" width="250"/>
+✨ "One in a Million" ✨
 
-💖 **ONCE MODE ACTIVATED** 💖
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🌸 ONCE • QA • Automation • Coffee 🌸
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 </div>
 
 ---
 
-# 👨‍💻 Sobre mim
+# 🍭 About Me
 
-🎯 QA apaixonado por qualidade de software.
+```yaml
+Name: Eliú Alves
 
-📍 Fortaleza - CE
+Role: QA Analyst
 
-🚀 Em busca da primeira oportunidade como QA focado em Automação.
+Location: Fortaleza - CE 🇧🇷
 
-📚 Atualmente estudando
+Favorite Group: TWICE 💖
 
-- API Testing
-- Cypress
-- JavaScript
-- Inglês
+Bias: Tzuyu 🌸
+
+Currently Learning:
+  - API Testing
+  - Cypress
+  - JavaScript
+  - English
+```
 
 ---
 
-# 🛠 Tecnologias
+# 💖 Favorite Members
+
+| 🌸 | 🐧 | 🍑 | 🐹 |
+|:--:|:--:|:--:|:--:|
+| Tzuyu | Mina | Momo | Sana |
+
+---
+
+# 🍬 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,git,github,vscode,postgres,python"/>
+<img src="https://skillicons.dev/icons?i=js,nodejs,git,github,vscode,python,postgres"/>
 
 </p>
 
@@ -47,19 +64,17 @@
 
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman"/>
 
-<img src="https://img.shields.io/badge/API_Testing-ff69b4?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/QA-FFB6C1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/API_Testing-FF69B4?style=for-the-badge"/>
 
 </p>
 
 ---
 
-# 📊 GitHub Stats
+# 💖 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=EliuAlves&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=EliuAlves&theme=tokyonight&show_icons=true&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliuAlves&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -67,7 +82,7 @@
 
 ---
 
-# 🔥 GitHub Streak
+# 🍭 GitHub Streak
 
 <p align="center">
 
@@ -77,69 +92,46 @@
 
 ---
 
-# 🚀 Projetos
+# 🌸 Current Mission
 
-| Projeto | Status |
-|---------|--------|
-| 🧪 API Automation | 🚧 Em desenvolvimento |
-| 🚀 Cypress Automation | 🚧 Em desenvolvimento |
-| 📊 Projeto Pegasus | 🚧 Em desenvolvimento |
-| 📝 Casos de Teste | 🚧 Em desenvolvimento |
+```text
+□□□□□□□□□□ 0%
 
----
+✔ Learn API
 
-# 🎵 Tocando agora
+✔ Improve English
 
-<p align="center">
+⬜ Build Automation Portfolio
 
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=SEU_SPOTIFY_ID&cover_image=true&theme=novatorem"/>
+⬜ CTFL
 
-</p>
+⬜ QA Pleno
 
----
-
-# 🍭 ONCE Corner
-
-<div align="center">
-
-💖 Bias: **Tzuyu**
-
-💗 Bias Wrecker: **Momo**
-
-🎶 Favorite Group: **TWICE**
-
-<img src="https://media.tenor.com/3h1gJz7O6kYAAAAC/twice.gif" width="320"/>
-
-</div>
+⬜ Dream Job
+```
 
 ---
 
-# 📫 Contato
+# 🍬 Playlist
 
-<div align="center">
+🎵 ONE SPARK
 
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN">
+🎵 Feel Special
 
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+🎵 I GOT YOU
 
-</a>
+🎵 Strategy
 
-<a href="mailto:SEUEMAIL@gmail.com">
-
-<img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail"/>
-
-</a>
-
-</div>
+🎵 Talk That Talk
 
 ---
 
 <div align="center">
+
+### 🍭 ONCE FOREVER 🍭
+
+⭐ Thanks for visiting ⭐
 
 <img src="https://komarev.com/ghpvc/?username=EliuAlves&style=for-the-badge&color=ff69b4"/>
-
-<br><br>
-
-⭐ **Obrigado por visitar meu perfil!** ⭐
 
 </div>
